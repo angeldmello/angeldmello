@@ -8,6 +8,7 @@ I'm currently a second-year student at the University of Manchester, exploring t
 - 🌱 I’m currently studying Data Structures and Algorithms, Introduction to AI,
      Software Engineering, Database Systems, Logic and Modelling, and Programming Languages and Paradigms.
 - 👯 I’m looking to collaborate on innovative projects!
+- 🎲 Some of my hobbies include playing the piano, reading books on astrophysics, and travelling the world!
 
 ## 🔮 Quick Links 
 
