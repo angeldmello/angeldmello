@@ -2,7 +2,7 @@
 
 ## 📚 About Me 
 
-I'm currently a second-year student at the University of Manchester, learning computer science!
+I'm currently a second-year student at the University of Manchester, exploring the fascinating world of computer science!
 
 - 🔭 I love exploring new technologies and developing software solutions.
 - 🌱 I’m currently learning Data Structures and Algorithms, Introduction to AI,
