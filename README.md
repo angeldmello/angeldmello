@@ -5,8 +5,8 @@
 I'm currently a second-year student at the University of Manchester, exploring the fascinating world of computer science!
 
 - 🔭 I love exploring new technologies and developing software solutions.
-- 🌱 I’m currently studying Data Structures and Algorithms, Introduction to AI, Software Engineering,
-     Database Systems, Logic and Modelling, and Programming Languages and Paradigms.
+- 🌱 I’m currently studying Data Structures and Algorithms, Introduction to AI,
+     Software Engineering, Database Systems, Logic and Modelling, and Programming Languages and Paradigms.
 - 👯 I’m looking to collaborate on innovative projects!
 
 ## 🔮 Quick Links 
