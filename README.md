@@ -14,7 +14,7 @@ I'm currently a second-year student at the University of Manchester, exploring t
 
 - 💬 Connect with me on [LinkedIn!](https://www.linkedin.com/in/angeldmello/)
 - 📫 How to reach me: [angel.dmello@student.manchester.ac.uk](mailto:angel.dmello@student.manchester.ac.uk)
-- 💻 Personal website: https://angeldmello.framer.website/
+- 💻 Personal website coming soon
 
 ## 🔭 Skills
 
